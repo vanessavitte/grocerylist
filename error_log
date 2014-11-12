@@ -1,0 +1,117 @@
+[10-Dec-2013 16:47:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php on line 9
+[10-Dec-2013 16:55:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php:7) in /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php on line 14
+[10-Dec-2013 16:57:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php:7) in /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php on line 14
+[12-Dec-2013 10:03:50] PHP Parse error:  syntax error, unexpected '}' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 85
+[12-Dec-2013 10:04:33] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 89
+[12-Dec-2013 10:05:30] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 89
+[12-Dec-2013 10:07:22] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 89
+[12-Dec-2013 10:07:43] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 89
+[12-Dec-2013 10:08:03] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 84
+[12-Dec-2013 10:08:14] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 85
+[12-Dec-2013 10:10:19] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 156
+[12-Dec-2013 10:11:08] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 156
+[12-Dec-2013 10:11:10] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 156
+[12-Dec-2013 10:12:49] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 156
+[12-Dec-2013 10:16:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:19:18] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:19:20] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:19:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:19:22] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:19:22] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:19:23] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:19:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:21:04] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:23:12] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:23:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:23:27] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:23:28] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:23:28] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:23:29] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:26:18] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:26:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:26:22] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:26:23] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:26:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:26:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 10:26:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 14:23:41] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 14:24:10] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 14:26:01] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 83
+[12-Dec-2013 14:26:30] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[12-Dec-2013 14:26:33] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 105
+[26-Aug-2014 19:24:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 44
+[26-Aug-2014 19:36:45 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 40
+[26-Aug-2014 20:05:17 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 3 given in /home4/vvitte84/public_html/school/grocerylist/additem.php on line 8
+[26-Aug-2014 20:05:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/additem.php:8) in /home4/vvitte84/public_html/school/grocerylist/additem.php on line 11
+[26-Aug-2014 20:07:51 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home4/vvitte84/public_html/school/grocerylist/additem.php on line 8
+[26-Aug-2014 20:07:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/additem.php:8) in /home4/vvitte84/public_html/school/grocerylist/additem.php on line 11
+[27-Aug-2014 09:29:14 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/additem.php on line 9
+[27-Aug-2014 10:21:10 America/Chicago] PHP Fatal error:  Call to undefined function item_name() in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 143
+[27-Aug-2014 10:26:20 America/Chicago] PHP Fatal error:  Call to undefined function item_name() in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 145
+[27-Aug-2014 10:42:22 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 164
+[27-Aug-2014 10:42:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 164
+[27-Aug-2014 10:42:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 164
+[27-Aug-2014 10:43:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 164
+[27-Aug-2014 16:36:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/editlist.php:29) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 149
+[27-Aug-2014 19:20:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/editlist.php:29) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 148
+[27-Aug-2014 19:31:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 157
+[27-Aug-2014 19:31:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/editlist.php:29) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 148
+[28-Aug-2014 16:03:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 165
+[28-Aug-2014 16:03:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 178
+[28-Aug-2014 16:03:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 178
+[28-Aug-2014 16:04:06 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 180
+[28-Aug-2014 16:06:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 180
+[28-Aug-2014 16:08:23 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 140
+[28-Aug-2014 16:08:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 140
+[28-Aug-2014 16:08:23 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 141
+[28-Aug-2014 16:09:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 140
+[28-Aug-2014 16:09:29 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 141
+[28-Aug-2014 16:10:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 141
+[28-Aug-2014 16:11:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 142
+[04-Sep-2014 00:07:04 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 64
+[04-Sep-2014 00:07:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:07:05 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:15:26 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 64
+[04-Sep-2014 00:15:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:15:26 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:15:29 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 64
+[04-Sep-2014 00:15:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:15:29 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:15:31 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 64
+[04-Sep-2014 00:15:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:15:31 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:15:46 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 64
+[04-Sep-2014 00:15:46 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 00:15:46 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[04-Sep-2014 23:30:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 135
+[04-Sep-2014 23:34:27 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[04-Sep-2014 23:34:44 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[04-Sep-2014 23:35:00 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[04-Sep-2014 23:36:25 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[04-Sep-2014 23:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[04-Sep-2014 23:37:29 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[04-Sep-2014 23:49:01 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 136
+[04-Sep-2014 23:49:41 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 138
+[04-Sep-2014 23:49:44 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 138
+[04-Sep-2014 23:49:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 138
+[04-Sep-2014 23:49:49 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 138
+[04-Sep-2014 23:50:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 147
+[04-Sep-2014 23:50:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 147
+[04-Sep-2014 23:50:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 147
+[04-Sep-2014 23:51:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 147
+[05-Sep-2014 08:51:51 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 08:52:20 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 08:52:34 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 08:53:14 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 08:53:43 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 08:53:47 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 08:53:57 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 09:12:22 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 09:12:42 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 09:13:17 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 09:13:28 America/Chicago] PHP Parse error:  syntax error, unexpected '"><div id='boldtitle'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 109
+[05-Sep-2014 13:41:45 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 62
+[05-Sep-2014 13:55:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/functions.php:38) in /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php on line 14
+[17-Sep-2014 12:41:50 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/vvitte84/public_html/school/grocerylist/checkusername.php on line 6
+[17-Sep-2014 12:42:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/vvitte84/public_html/school/grocerylist/checkusername.php on line 16
+[17-Sep-2014 12:42:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/checkusername.php:7) in /home4/vvitte84/public_html/school/grocerylist/checkusername.php on line 27

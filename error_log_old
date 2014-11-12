@@ -1,0 +1,85 @@
+[31-Oct-2013 14:04:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[31-Oct-2013 14:05:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 2
+[31-Oct-2013 14:05:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 2
+[31-Oct-2013 15:29:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[31-Oct-2013 15:49:31] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 124
+[31-Oct-2013 15:52:33] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 15:54:32] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 15:57:43] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 15:57:45] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 15:58:08] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 15:58:19] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 15:58:22] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 15:58:28] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 16:00:42] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 16:04:32] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 16:04:35] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 16:04:39] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 16:08:12] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 16:08:15] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 121
+[31-Oct-2013 16:12:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[31-Oct-2013 16:35:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[31-Oct-2013 16:43:54] PHP Parse error:  syntax error, unexpected $end in /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php on line 25
+[31-Oct-2013 16:48:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php:5) in /home4/vvitte84/public_html/school/grocerylist/grocerylistname.php on line 16
+[31-Oct-2013 19:28:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[31-Oct-2013 19:28:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[07-Nov-2013 15:21:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[07-Nov-2013 15:21:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[07-Nov-2013 15:22:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[07-Nov-2013 15:22:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/vvitte84/public_html/school/grocerylist/login.php:2) in /home4/vvitte84/public_html/school/grocerylist/login.php on line 4
+[21-Nov-2013 15:51:30] PHP Parse error:  syntax error, unexpected '.' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 63
+[21-Nov-2013 15:51:42] PHP Parse error:  syntax error, unexpected '.' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 63
+[21-Nov-2013 15:51:45] PHP Parse error:  syntax error, unexpected '.' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 63
+[21-Nov-2013 15:52:03] PHP Parse error:  syntax error, unexpected ';' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 63
+[21-Nov-2013 16:09:18] PHP Parse error:  syntax error, unexpected '.' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 87
+[05-Dec-2013 15:03:54] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 7
+[05-Dec-2013 15:17:04] PHP Parse error:  syntax error, unexpected '}' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 119
+[05-Dec-2013 15:22:31] PHP Parse error:  syntax error, unexpected '{', expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 3
+[07-Dec-2013 16:06:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/grocerylist/dbconnection.php:11) in /home4/vvitte84/public_html/school/grocerylist/checkusername.php on line 21
+[07-Dec-2013 20:11:06] PHP Parse error:  syntax error, unexpected '}' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 61
+[07-Dec-2013 20:11:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 60
+[07-Dec-2013 20:11:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 60
+[07-Dec-2013 20:11:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 60
+[07-Dec-2013 20:12:20] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 60
+[07-Dec-2013 20:12:20] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 60
+[07-Dec-2013 20:12:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 56
+[07-Dec-2013 20:12:46] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 56
+[07-Dec-2013 20:12:51] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 60
+[07-Dec-2013 20:12:51] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 60
+[07-Dec-2013 20:14:49] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 61
+[07-Dec-2013 20:14:49] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 61
+[07-Dec-2013 20:15:10] PHP Parse error:  syntax error, unexpected '}' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 62
+[07-Dec-2013 20:15:19] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 61
+[07-Dec-2013 20:15:19] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 61
+[07-Dec-2013 20:15:56] PHP Parse error:  syntax error, unexpected '}' in /home4/vvitte84/public_html/school/grocerylist/userhome.php on line 60
+[07-Dec-2013 20:27:01] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 9
+[07-Dec-2013 20:27:25] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 71
+[07-Dec-2013 20:36:06] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 64
+[07-Dec-2013 20:54:00] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 7
+[07-Dec-2013 20:54:00] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 7
+[07-Dec-2013 20:55:02] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 7
+[07-Dec-2013 20:55:02] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 7
+[07-Dec-2013 20:58:03] PHP Parse error:  syntax error, unexpected T_REQUIRE in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 9
+[07-Dec-2013 20:58:20] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 7
+[07-Dec-2013 20:58:20] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 7
+[08-Dec-2013 01:20:13] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[08-Dec-2013 01:26:44] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 65
+[08-Dec-2013 20:49:21] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[08-Dec-2013 20:49:58] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[08-Dec-2013 20:50:12] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[08-Dec-2013 20:55:13] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[08-Dec-2013 20:58:01] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[08-Dec-2013 20:58:08] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[09-Dec-2013 13:47:08] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[10-Dec-2013 15:21:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/grocerylist/edit.php on line 9
+[10-Dec-2013 15:21:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home4/vvitte84/public_html/school/grocerylist/edit.php on line 9
+[10-Dec-2013 15:24:49] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home4/vvitte84/public_html/school/grocerylist/edit.php on line 9
+[10-Dec-2013 15:31:18] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 57
+[10-Dec-2013 15:31:42] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 57
+[10-Dec-2013 15:38:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 63
+[10-Dec-2013 15:39:16] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 63
+[10-Dec-2013 15:39:45] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 64
+[10-Dec-2013 15:39:57] PHP Parse error:  syntax error, unexpected ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 63
+[10-Dec-2013 15:48:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[10-Dec-2013 15:49:46] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 66
+[10-Dec-2013 15:54:16] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/vvitte84/public_html/school/grocerylist/editlist.php on line 64

@@ -1,0 +1,422 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0b1 | 201101 
+   NOTE: WORK IN PROGRESS
+   USE WITH CAUTION AND TEST WITH ABANDON */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define visible focus styles! 
+:focus {
+	outline: ?????;
+} */
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*---- Reset complete ---*/
+
+
+/*---- Begining of Code ----*/
+html            {font-size: 62.5%;}
+ 
+
+
+
+
+
+html, body	{margin: 0;
+		padding: 0;
+		height: 100%;
+		width: 100%;}
+
+body            {font-family: 'PT Sans', sans-serif;
+                font-weight:normal;
+                background-color: #F4F7DC;}
+                
+#wrapper	{min-height: 100%;
+		position: relative;}    		            
+
+h1		{color: #fffff;
+		font-size: 2.4rem;
+		font-family: 'Salsa', cursive;}
+
+h2              {font-family: 'PT Sans', sans-serif;
+		font-size: 38px; font-size: 3.8rem;
+                color: #C1272D;
+                font-weight: bold;
+                margin: 115px 0 25px 25px;}             
+
+h3              {font-size: 30px; font-size: 3rem;
+                color: #2E3192;
+                font-family: 'PT Sans', sans-serif;
+                font-weight: bold;
+                padding: 0 0 10px 0;}             
+
+h4		{font-size: 18px;
+		color: #404040;
+		padding: 0 0 10px 0;}
+
+h5              {font-size: 16px; font-size: 1.6rem;
+                color: #333333;
+                padding-top: .9%;
+                padding-left: 1.4%;
+                float: left;}                                  
+
+p               {font-family: 'PT Sans', sans-serif;
+                line-height: 1.28em;
+                font-size: 18px; font-size: 2rem;
+                color: #4D4D4D;}
+
+img             {max-width: 100%;
+                height: auto;}    
+                
+hr		{width: 548px;
+		float: left;
+		color: rgb(136, 136, 136);
+		border-bottom-width: 0px;}      
+		
+p.total		{width: 420px;}
+
+small.itemna	{color: #4D4D4D;
+		font-size: 16px;}
+
+span#sum	{padding-left: 95px;}		                     
+                
+                       
+/*------Body------*/ 
+
+/*------Header------*/                 
+
+/*------Header------*/                
+
+/*------Nav------*/ 
+
+#logo           {background-color: #BAD2BA;
+               	width: 235px;
+               	height: auto;
+               	position: absolute;
+            	margin-left: 370px;
+            	margin-top: -20px;
+            	border-bottom-right-radius: 25px;
+		border-bottom-left-radius: 25px;
+		text-align: center;
+		padding: 5px;}
+				
+#logo a 	{color: #404040;
+		text-decoration: none;}				
+            	
+#logo img	{display: block;
+    		margin-left: auto;
+    		margin-right: auto;}            	
+
+header		{width: 100%;
+		background-color: #404040;
+		text-align: center;}
+
+nav             {width: 1024px;
+		margin: 0 auto;
+		padding: 1.4% 0;
+                float: center;
+                list-style: none;
+                text-align: center;}
+            
+nav li          {display: inline;
+                font-size: 20px; font-size: 2rem;
+                position:relative;
+                font-family: 'PT Sans', sans-serif;}         
+        
+nav a           {color:#E6E6E6;
+                text-decoration:none;}
+        
+nav a:hover     {color:#4D4D4D;}
+                    
+.lnav      	{padding: 0 6%;
+                float:left;}  
+                
+.rnav		{padding: 0 5% 0 0;
+		float: right;} 
+		
+.rnavb		{padding: 0;
+		float: right;}  
+		
+.createbtnn	{padding: 0 0 5px 0;}		            
+                
+.move		{margin: 0 0 0 17%;}                
+                                                           
+
+.here           {color: #603813;
+                font-weight: bold;}               
+        
+nav li:hover ul {left:0;}
+        
+nav li:hover ul a
+                {text-decoration:none;}
+    
+nav li:hover ul li a:hover
+                {color: #4D4D4D;}
+
+
+               
+                           
+/*------Nav------*/ 
+
+/*------Section------*/                                    
+section         {width: 100%; 
+		height: 100%;
+                float: left;
+                background-color: #F4F7DC;}               
+
+/*------Section------*/
+
+/*------Article------*/
+
+article		{width: 900px;
+		margin: 0 auto 225px auto;
+		padding: 1.4% 0;
+                float: center;
+                list-style: none;}
+                
+article p 	{width: 900px;}
+
+#home p		{width: 375px;
+		margin-left: 25px;
+		padding: 1.4% 0;
+		float: left;}  
+		
+#home img	{float: right;
+		margin-top: -60px;
+		width: 400px;}	
+
+#home form	{padding: 0 0 0 25px;}	              
+
+#leftimage img  {float: left;
+                padding: 0 25px 15px 10px;}
+
+#leftimage      {clear: both;
+		padding: 0 20px 0 20px;
+		box-sizing: border-box;
+		height: 250px;}
+
+#rightimage     {clear: both;
+		padding: 0 20px 0 20px;
+		box-sizing: border-box;
+		height: 250px;}
+
+#rightimage img  {float: right;
+		padding: 0 0 15px 25px;}
+
+#login		{width: 25%;
+		height: 30%;
+		margin: 20px auto;
+		-moz-border-radius: 15px;
+		border-radius: 15px;}
+				
+#login h2	{margin-left: 0px;}				
+				
+#login h6	{font-size: 20px;}	
+
+.email, .password
+		{margin: 0 0 20px 0;
+		width: 200px;
+		height: 25px;
+		border-radius: 5px;}
+
+#login a 	{text-decoration: none;
+		color: #000;
+		font-size: 12px;}
+				
+.submit		{margin-left: 150px;}	
+
+#create		{width: 42%;
+		height: 30%;
+		margin: 20px auto;
+		-moz-border-radius: 15px;
+		border-radius: 15px;}
+				
+#create h2	{}				
+				
+#create h6	{font-size: 20px;
+		margin-left: 90px;}	
+
+
+.fname, .username, .password2				
+		{margin: 0 0 15px 90px;
+		width: 200px;
+		height: 20px;
+		border-radius: 5px;}
+				
+.submit2	{margin-left: 172px;}	
+
+#lists		{margin: 0 0 0 35px;}
+
+#mylists, #createlists, #premadelists		
+		{width: 270px; 
+		float: left;
+		margin: 50px 5px 0 0;}	
+			
+#createlists h2, #premadelists h2
+		{margin: 115px 0 25px 0px;}			
+
+#editlist	{float: right;
+		width: 600px; 
+		margin: 50px 25px 0 0;}
+			
+.additem	{margin: -10px 0 0 10px;}			
+	
+
+#createlists h6	{font-size: 20px;}	
+				
+				
+#boldtitle	{font-size: 18px;
+		padding:0 0 5px  25px;}				
+
+/*------Aside------*/
+
+/*------footer------*/
+footer          {clear: both;
+		width: 100%;
+		font-family: 'PT Sans', sans-serif;
+                background-color: #BAD2BA;
+              	padding: 15px 0 0 25px;
+              	position: fixed;
+              	bottom: 0;
+              	height: 115px;}
+               
+#footcont	{width: 900px;
+		margin: 0 auto;
+                float: center;
+                list-style: none;}               
+        
+footer ul li    {padding: 0 2.9% 0 2.9%;}
+
+footer li       {display: inline;
+                font-size: 12px; font-size: 1.2rem;
+                position:relative;}  
+                
+footer a        {text-decoration: none;
+                color: #404040;
+                margin: 0 0 10px 0;
+                display: block;}   
+                
+footer p        {font-size: 14px;
+		padding: 1.4% 0;
+                color: #404040;
+                clear: both;
+                text-align: center;}      
+                
+#foot1		{width: 200px;
+		float: left;}                 
+                
+#foot1 li	{display: block;}    
+
+#foot2		{width: 200px;
+		float: left;}                       
+
+#foot2 li	{display: block;}    
+
+#foot3		{width: 250px;
+		float: left;}
+
+#foot4		{width: 250px;
+		float: left;}
+		
+#foot3 img, #foot4 img
+		{margin: 0 10px 0 0;}		
+		
+		
+#item_info	{padding: 15px 0 0 0;}
+
+table 		{width: 550px;
+		font-family: 'PT Sans', sans-serif;}
+	
+table, th, td 	{border-top: 1px solid rgb(136, 136, 136);
+		text-align: left;
+		margin: 15px 0 0 0;}	
+	
+th		{font-size: 18px;
+		padding: 5px 0 5px 5px;}	
+	
+td		{padding: 3px 0 3px 5px;
+		font-size: 12px;
+		}
+		
+input.btndel 	{display: block;
+		width: 20px;
+		height: 20px;
+		border: 1px solid #afafaf;
+		border-radius: 50%;}			
+		
+h2 a		{text-decoration:none;
+		color: #C1272D;
+		clear: right; }		
+		
+#mylists a, #premadelists a, .pre a
+		{text-decoration:none;
+		color: #4D4D4D;
+		padding: 0 0 10px 0;}		
+		
+.create h4, .pre h4
+		{font-size: 20px;
+		color: #C1272D;
+		padding: 10px 0 10px 20px;}
+		
+.create form	{padding: 0 0 0 20px;}	
+
+input.case 	{width: 20px;
+		height: 15px;}
+
+.check{width: 25px;}
+/*
+input[type="submit"]{
+width: 125px;
+height: 35px;
+border-radius: 5px;
+}*/
